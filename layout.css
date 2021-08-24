@@ -1,0 +1,43 @@
+/*All of these are using a custom dark mode that I created
+    Not much to explain here, just basic CSS*/
+
+    h1 {
+        font-family: Arial;
+        color: rgb(235, 238, 240);
+    }
+
+    h2 {
+        font-family: Arial;
+        color: rgb(235, 238, 240);
+        font-size: 45px;
+    }
+
+    h4 {
+        font-family: Arial;
+        color: rgb(235, 238, 240);
+    }
+
+    p {
+        font-family: Arial;
+        color: rgb(235, 238, 240);
+        font-size: 30px;
+        width: 75%;
+        text-align: start;
+    }
+
+    body {
+        background-color: rgb(39, 41, 50);
+    }
+
+    button {
+        background-color: rgb(77, 126, 168);
+        color: rgb(235, 238, 240);
+        padding: 8px 19px;
+        border-radius: 8px;
+        font-size: 25px;
+    }
+
+    button:hover {
+        background-color: rgb(77, 126, 168);
+        color: rgb(0, 12, 69);
+    }

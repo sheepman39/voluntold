@@ -1,0 +1,66 @@
+{
+    "mendoza":{
+        "firstHour": {
+            "names": [" Alexandria", " Addyson", " Gerald", " Luke", " Christian", " Kaleb", " Riley", " Daniel", " Hannah", " Ethan", " Austin", " Brooke", " Kaydence", " Anthony", " Angelo", " Grace", " Anaisabel", " Zoe", " ary", " Kaitlyn", " Blake", " Reile", " Julia", " Faith"],
+            "extra": [],
+            "className": "Spanish 1 1st H"
+        },
+        "secondHour": {
+            "names": [" Ryan", " Zach B.", " Isaac", " Gabriel", " Aaron", " Wally", " Zach F.", " Keyon", " Kylah", " Maggie", " Bill", " Joseph", " Isabella", " Carlo", " Hannah", " Christopher S.", " Jessica", " Connor", " Christopher W.", " Jack", " Adam"],
+            "extra": [],
+            "className": "Spanish 2 2nd H"
+        },
+        "thirdHour": {
+            "names": [" Ruby", " Samuel", " Gabi", " Jack", " Duffy", " Shadi", " Keirstynn", " Kaylee", " Luke", " Brianna", " Joshua", " Emelia", " Clark (cooler Bryce)", " Madison", " Tyler", " Rayna", " Kenneth", " Presleigh", " Jayden", " Leo", " Grace Watson", " Grace Wilson", " Parker"],
+            "extra": [],
+            "className": "Spanish 2 3rd H"
+        },
+        "fourthHour": {
+            "names": [" Rayanna", " Payton", " Hailey", " Joshua", " Kyle", " Phoebe", " Caroline", " Kayla", " Sophia", " Maria", " Paige", " Matthew", " Nicholas", " Lance", " Matthew", " Trey", " Maddux", " Madison", " Jace", " Savannah", " Daniel", " Hannah", " Philip"],
+            "extra": [],
+            "className": "Spanish 1 4th H"
+        },
+        "fifthHour": {
+            "names": [" Nichole", " Deyton", " Abigail", " Asher", " Melanie", " Emmi", " Emma", " Elizabeth", " Vincent", " Landon", " Rylee", " Isabelle", " Ryan", " Dylan", " Miles", " Nicole", " Mitchell", " Mandy", " Grace", " Tyler", " Madison", " Luka"],
+            "extra": [],
+            "className": "Spanish 1 5th H"
+        },
+        "seventhHour": {
+            "names": [" Kayla", " Naturelle", " Nick H", " Makena", " Genevieve", " Nick K", " Jackson", " Julian", " Zach", " Sarah", " Piper", " Alaina", " Treyton", " Lucy", " AJ", " Nick C", " Tesla", " Madison", " Amanda", " Leah", " Sophia", " Sabrina", " Makayla", " Hailey", " Joseph"],
+            "extra": [],
+            "className": "Spanish 2 7th H"
+        }
+    },
+    "mendoza2":{
+        "firstHour": {
+            "names": [" Alexandria2", " Addyson2", " Gerald2", " Luke2", " Christian", " Kaleb", " Riley", " Daniel", " Hannah", " Ethan", " Austin", " Brooke", " Kaydence", " Anthony", " Angelo", " Grace", " Anaisabel", " Zoe", " ary", " Kaitlyn", " Blake", " Reile", " Julia", " Faith"],
+            "extra": [],
+            "className": "Algebra 1 1st H"
+        },
+        "secondHour": {
+            "names": [" Ryan", " Zach B.", " Isaac", " Gabriel", " Aaron", " Wally", " Zach F.", " Keyon", " Kylah", " Maggie", " Bill", " Joseph", " Isabella", " Carlo", " Hannah", " Christopher S.", " Jessica", " Connor", " Christopher W.", " Jack", " Adam"],
+            "extra": [],
+            "className": "Algebra 1 2nd H"
+        },
+        "thirdHour": {
+            "names": [" Ruby", " Samuel", " Gabi", " Jack", " Duffy", " Shadi", " Keirstynn", " Kaylee", " Luke", " Brianna", " Joshua", " Emelia", " Clark (cooler Bryce)", " Madison", " Tyler", " Rayna", " Kenneth", " Presleigh", " Jayden", " Leo", " Grace Watson", " Grace Wilson", " Parker"],
+            "extra": [], 
+            "className": "Algebra 2 3rd H"
+        },
+        "fourthHour": {
+            "names": [" Rayanna", " Payton", " Hailey", " Joshua", " Kyle", " Phoebe", " Caroline", " Kayla", " Sophia", " Maria", " Paige", " Matthew", " Nicholas", " Lance", " Matthew", " Trey", " Maddux", " Madison", " Jace", " Savannah", " Daniel", " Hannah", " Philip"],
+            "extra": [],
+            "className": "Algebra 2 4th H"
+        },
+        "fifthHour": {
+            "names": [" Nichole", " Deyton", " Abigail", " Asher", " Melanie", " Emmi", " Emma", " Elizabeth", " Vincent", " Landon", " Rylee", " Isabelle", " Ryan", " Dylan", " Miles", " Nicole", " Mitchell", " Mandy", " Grace", " Tyler", " Madison", " Luka"],
+            "extra": [],
+            "className": "Algebra 1 6th H"
+        },
+        "seventhHour": {
+            "names": [" Kayla2", " 2Naturelle", " 2Nick H", " Makena", " Genevieve", " Nick K", " Jackson", " Julian", " Zach", " Sarah", " Piper", " Alaina", " Treyton", " Lucy", " AJ", " Nick C", " Tesla", " Madison", " Amanda", " Leah", " Sophia", " Sabrina", " Makayla", " Hailey", " Joseph"],
+            "extra": [],
+            "className": "Math Lab 7th H"
+        }
+    }
+}
