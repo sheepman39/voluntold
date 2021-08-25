@@ -13,7 +13,7 @@
                             
                             var button = document.createElement("BUTTON");
                             button.setAttribute("id", classHour);
-                            button.innerHTML = data[teacher][classHour].className;
+                            button.innerHTML = data[teacher][classHour].className ? data[teacher][classHour].className : classHour];
 
                             // makes the button visible on the body
                             document.getElementById("container").appendChild(button);
