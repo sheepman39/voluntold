@@ -125,7 +125,7 @@ function studentSelector(hour) {
 
     // output of the selected student, students left, and the number left
     document.getElementById("output").innerHTML = "<b><em>Next Victim:</em></b>" + pick;
-    document.getElementById("remaining").innerHTML = "Students left: " + hour.names;
+    document.getElementById("remaining").innerHTML = "Students left: " + hour.names.join(", ");
     document.getElementById("numberRemaining").innerHTML = "Number of students remaining: " + hour.names.length;
 
 }
