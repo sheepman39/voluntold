@@ -3,17 +3,17 @@ var teacher = "mendoza";
 
 // dynamicButtons receives the data from the json file and will make a new button for each class
 function dynamicButtons(data) {
-    
+
     // in case if anything goes wrong, try/catch block for error reporting
     try {
-        
+
         // loop that will take each hour from the teacher specified in line 2
         for (classHour in data[teacher]) {
-            
+
             // creates the button element and sets the id as the value of the classHour
             var button = document.createElement("BUTTON");
             button.setAttribute("id", classHour);
-            
+
             // If a specified className is specified in students.json, use that as the name
             // If no className is defined, use the default class hour name as the text
             button.innerHTML = data[teacher][classHour].className ? data[teacher][classHour].className : classHour;
@@ -24,20 +24,20 @@ function dynamicButtons(data) {
             // adds the event listener to each of the buttons
             // because variable will change, this needs to be a local function with local variable scope
             button.addEventListener("click", function (classHour) {
-                return function(){
-                    
+                return function () {
+
                     // student selector is the function to select students
                     studentSelector(data[teacher][classHour]);
                 }
             }(classHour));
         }
-        
+
     } catch (err) {
-        
+
         // if there are errors, print them out 
         document.getElementById("debug").innerHTML = `Ops something went wrong.  Please report the following error code:\n${err}`;
         console.log(err);
-        
+
     }
 }
 
@@ -47,13 +47,13 @@ let Classes;
 // fetch the json data from this file
 fetch('./students.json')
     .then(function (response) {
-        
+
         // clones the json response and returns that data
         response.clone().json();
         return response.json();
     })
     .then(function (data) {
-        
+
         // sets the response data to the Classes object
         Classes = data;
         // debug code for json data
