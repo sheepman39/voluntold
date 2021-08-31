@@ -1,12 +1,12 @@
 {
     "mendoza":{
         "firstHour": {
-            "names": ["Camdin", "Olivia B", "Ashanti", "Abigail", "Julian", "Trinity", "Francesca", "Olivia H", "Leah", "Romelo", "Andrew", "Molly L", "Molly P", "Alex", "Donovan", "Henry", "Elle", "Oscar", "Leylani", "Kayden", "Talan", "Zachary", "Gage", "Milo", "Ava", "Lyndsey"],
+            "names": ["Camdin", "Olivia B", "Ashanti", "Abbie", "Julian", "Trinity", "Chessie", "Olivia H", "Leah", "Romelo", "Andrew", "Molly L", "Molly P", "Alex", "Donovan", "Henry", "Elle", "Oscar", "Leylani", "Kayden", "Talan", "Zach", "Gage", "Milo", "Ava", "Lyndsey"],
             "extra": [],
             "className": "Spanish 1 1st H"
         },
         "secondHour": {
-            "names": ["Benjamin", "Thomas", "Dominic", "Jessica", "Gracie", "Skylar", "Cassidy", "Justina", "Lauren", "Olivia P", "Kaitlyn", "Nicholas", "Samanatha", "Kaylie", "Mihailo", "Simon", "Sarah P", "Grace", "Sarah R", "Brad", "Landon", "Olivia H", "Teylor", "Kyron", "Kaylen"],
+            "names": ["Ben", "Thomas", "Dominic", "Jessica", "Gracie", "Skylar", "Cassidy", "Justina", "Lauren", "Olivia P", "Kaitlyn", "Nicholas", "Sam", "Kaylie", "Mihailo", "Simon", "Sarah P", "Grace", "Sarah R", "Brad", "Landon", "Olivia H", "Teylor", "Kyron", "Kaylen"],
             "extra": [],
             "className": "Spanish 1 2nd H"
         },
@@ -16,17 +16,17 @@
             "className": "Spanish 1 3rd H"
         },
         "fourthHour": {
-            "names": ["Landen", "Leila", "Jacob", "Lillian", "Katelyn", "Madalene", "Cameron", "Francesca", "Damon", "Kaylee", "Francis", "Matthew", "Ava", "Abigail", "Mitchell", "Alexander", "Daniela", "Kara", "Megan", "Nathan", "Brian", "Westin", "Dustin", "Benjamin"],
+            "names": ["Landen", "Leila", "Jacob", "Lillian", "Katie", "Maddie", "Cameron", "Frankie", "Damon", "Kaylee", "Frank", "Matt", "Ava", "Abbie", "Mitch", "Alexander", "Daniela", "Kara", "Megan", "Nathan", "Brian", "Westin", "Dustin", "Ben"],
             "extra": [],
             "className": "Spanish 1 4th H"
         },
         "fifthHour": {
-            "names": ["Sienna", "Avarie", "Rocco", "Jayden", "Bianca", "Elizabeth", "Colleen", "Alanna", "Ruben", "Aubrey", "Katianna", "Vanessa", "Antonio", "Cali", "Michael", "Jerome", "Shannon", "Don", "Anthony", "Liam", "Ben", "Ava", "Ashton", "Seth", "Annalie"],
+            "names": ["Sienna", "Avarie", "Rocco", "Jayden", "Bianca", "Ellie", "Colleen", "Alanna", "Ruben", "Aubrey", "Kat", "Vanessa", "Antonio", "Cali", "Michael", "Jerome", "Shannon", "Don", "Anthony", "Liam", "Ben", "Ava", "Ashton", "Seth", "Annalie"],
             "extra": [],
             "className": "Spanish 1 5th H"
         },
         "seventhHour": {
-            "names": ["Deyton", "Zachariah", "Kyle", "Gabriel C", "Aaron", "Phoebe", "Caroline", "Kaylee", "Elizabeth", "Sophia", "Hannah", "Isabelle", "Joseph", "Nicholas", "Emelia", "Clark", "Madison", "Kaydence", "Grace R", "Anaisabel", "Philip", "Kaitlyn", "Gabriel V", "Leo", "Grace W", "Neva"],
+            "names": ["Deyton", "Zachariah", "Kyle", "Gabriel C", "Aaron", "Phoebe", "Caroline", "Kaylee", "Elizabeth", "Sophia", "Hannah", "Izzy", "Joey", "Nick", "Emelia", "Clark", "Madie", "Kaydence", "Grace R", "Anais", "Philip", "Katie", "Gabriel V", "Leo", "Grace W", "Neva"],
             "extra": [],
             "className": "Spanish 2 7th H"
         }
