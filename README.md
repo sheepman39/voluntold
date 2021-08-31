@@ -17,4 +17,6 @@ This will allow you to make a new repository (repo) where you can store all of y
 Name the repository that you just created <*username*.github.io> where *username* is your GitHub username.  It must be exactly the same or else it will not deploy properly.  You can add a description if you would like, but it is not necessary.  
 Next, mark the visibility of the project as Public so this page can be seen by anybody.  If you mark it as Private, GitHub will not publish your version of Voluntold.  Congrats!  You just completed step 1!
 
-## Step 2: 
+## Step 2: Removing Unneeded files
+
+### If you are using this for multiple teachers
