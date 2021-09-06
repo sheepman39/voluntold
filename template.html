@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Voluntold 4.3.2</title>
+    <title>Voluntold 4.3.2 Beta</title>
     <!--Imports the stylesheet-->
     <link rel="stylesheet" href="layout.css" type="text/css">
 </head>
@@ -22,15 +22,15 @@
         </br>
 
         <!--This is where the student selected is shown-->
-        <h2 id="output"></h2>
+        <h2 id="output" onclick="studentSelector(lastClass)"></h2>
         </br>
 
         <!--This shows the students remaining -->
-        <p id="remaining"></p>
+        <p id="remaining" onclick="studentSelector(lastClass)"></p>
         </br>
 
         <!--This shows the number of students remaining-->
-        <p id="numberRemaining"></p>
+        <p id="numberRemaining" onclick="studentSelector(lastClass)"></p>
         
         <!-- If I ever need to debug or put error info, this is used for that-->
         <p id="debug"></p>
