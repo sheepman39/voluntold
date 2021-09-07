@@ -44,6 +44,9 @@ function dynamicButtons(data) {
 // Defines Classes as a variable that will later have json data assigned to it
 let Classes;
 
+// Holds the hour of the last class selected for click anywhere functionality
+var lastClass = "";
+
 // fetch the json data from this file
 fetch('./students.json')
     .then(function (response) {
@@ -99,6 +102,11 @@ function getRndInteger(min, max) {
 }
 // this is the actual selector function
 function studentSelector(hour) {
+    
+    // checks if hour is null or undefined
+    if (hour === undefined || hour === null || hour === "") {
+        return
+    }
 
     // checks if the array is empty
     if (hour.names.length === 0) {
@@ -122,6 +130,9 @@ function studentSelector(hour) {
     // then that name is removed from the names array so it is not picked again
     hour.extra.push(pick);
     hour.names.splice(ranNum, 1);
+    
+    // sets the lastClass variable to the class selected
+    lastClass = hour;
 
     // output of the selected student, students left, and the number left
     document.getElementById("output").innerHTML = "<b><em>Next Victim: </em></b>" + pick;
