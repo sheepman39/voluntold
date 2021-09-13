@@ -8,7 +8,7 @@ function dynamicButtons(data) {
     try {
 
         // loop that will take each hour from the teacher specified in line 2
-        for (classHour in data[teacher]) {
+        for (var classHour in data[teacher]) {
 
             // creates the button element and sets the id as the value of the classHour
             var button = document.createElement("BUTTON");
@@ -82,7 +82,7 @@ fetch('./students.json')
 function masterRestart(ClassObject) {
 
     // this takes each class hour extra array and pushes it back into the names
-    for (classHour in ClassObject) {
+    for (var classHour in ClassObject) {
         ClassObject[classHour].extra.forEach(name => {
             ClassObject[classHour].names.push(name);
         });
