@@ -105,7 +105,7 @@ function studentSelector(hour) {
     
     // checks if hour is null or undefined
     if (hour === undefined || hour === null || hour === "") {
-        return
+        return;
     }
 
     // checks if the array is empty
@@ -113,7 +113,7 @@ function studentSelector(hour) {
 
         // if the array is empty, push those names into the main array
         hour.extra.forEach(name => {
-            hour.names.push(name)
+            hour.names.push(name);
         });
 
         // clears the extra array
