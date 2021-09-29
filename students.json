@@ -33,17 +33,17 @@
     },
     "fmendoza":{
         "firstHour": {
-            "names": ["Gabrielle", "Logan", "Robert", "Gianna", "Delaney", "Matthias", "Emma", "Chase", "Kaitlyn", "Claudia", "Kaydence", "Mitchell", "Cole", "Peyton", "John", "Kylee", "Tyler", "Mia", "Dominic", "Elizabeth"],
+            "names": ["Gabrielle", "Ari", "Logan", "Robert", "Gianna", "Delaney", "Matthias", "Emma", "Chase", "Kaitlyn", "Claudia", "Kaydence", "Mitchell", "Cole", "Peyton", "John", "Kylee", "Tyler", "Mia", "Dominic", "Elizabeth"],
             "extra": [],
             "className": "Algebra 2 1st H"
         },
         "thirdHour": {
-            "names": ["Rocco", "Bianca", "Joshua", "Jamon", "Luke", "Lola", "Royce", "Payge", "Caleb", "Alexander", "Mihailo", "Jack", "Rhyanna", "Ian", "Sarah", "Gage", "Tyler", "Jesus", "Danniella"],
+            "names": ["Rocco", "Bianca", "Joshua", "Jamon", "Luke", "Lola", "Royce", "Payge", "Caleb", "Alexander", "Mihailo", "Jack", "Rhyanna", "Ian", "Sarah", "Gage", "Tyler", "Danniella"],
             "extra": [],
             "className": "Algebra 1 3rd H"
         },
         "fourthHour": {
-            "names": ["Gabrielle", "Robert", "Richard", "Nevaeh", "Delaney", "Maggie", "Jacob", "Ryan", "Presleigh", "Connor", "Christopher"],
+            "names": ["Gabrielle", "Robert", "Mark", "Nevaeh", "Delaney", "Maggie", "Jacob", "Ryan", "Presleigh", "Connor", "Christopher"],
             "extra": [], 
             "className": "Math Lab 4th H"
         },
@@ -53,12 +53,12 @@
             "className": "Algebra 2 5th H"
         },
         "sixthHour": {
-            "names": ["Yasmine", "Emily", "Ivan", "Luke", "Derrick", "Nevaeh", "Riley", "Kayla", "Alexander", "Austin", "Jaden", "Riley", "Abigail", "Samuel", "Hailey", "Zachary", "Julia"],
+            "names": ["Yasmine", "Emily", "Ivan", "Luke", "Derrick", "Nevaeh", "Riley D", "Riley K", "Kayla", "Alexander", "Austin", "Jaden", "Riley", "Abigail", "Samuel", "Hailey", "Zachary", "Julia"],
             "extra": [],
             "className": "Algebra 2 6th H"
         },
         "seventhHour": {
-            "names": ["Amelia", "Sienna", "Annelise", "Joseph", "Colleen", "Bella", "Damian", "Lillian", "Antonio", "Katelyn H", "Kaitlyn I", "Michael", "Jordane", "Kolton", "Alfredo", "Annalie", "Ava", "Lyndsey"],
+            "names": ["Amelia", "Sienna", "Joseph", "Colleen", "Bella", "Damian", "Lillian", "Antonio", "Katelyn H", "Kaitlyn I", "Michael", "Jordane", "Kolton", "Alfredo", "Annalie", "Ava", "Lyndsey"],
             "extra": [],
             "className": "Algebra 1 7th H"
         }
